@@ -1,0 +1,7 @@
+com/teamsixx/musixapp/controller/FavouriteController.class
+com/teamsixx/musixapp/model/Favourite.class
+com/teamsixx/musixapp/exception/SongNotExistsException.class
+com/teamsixx/musixapp/repository/FavRepository.class
+com/teamsixx/musixapp/FavouriteModuleApplication.class
+com/teamsixx/musixapp/exception/SongAlreadyExistsException.class
+com/teamsixx/musixapp/service/FavService.class

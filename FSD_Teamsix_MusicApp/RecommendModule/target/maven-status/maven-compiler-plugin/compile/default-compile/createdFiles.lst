@@ -1,0 +1,7 @@
+com/teamsixx/musixapp/model/Recommend.class
+com/teamsixx/musixapp/exception/SongNotExistsException.class
+com/teamsixx/musixapp/service/RecommendService.class
+com/teamsixx/musixapp/controller/RecommendController.class
+com/teamsixx/musixapp/exception/SongAlreadyExistsException.class
+com/teamsixx/musixapp/RecommendModuleApplication.class
+com/teamsixx/musixapp/repository/RecommendRepository.class

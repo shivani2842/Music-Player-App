@@ -1,0 +1,7 @@
+/home/nht-wave3-suyog/Desktop/spring/FSD_Teamsix_MusicApp/FavouriteModule/src/main/java/com/teamsixx/musixapp/exception/SongAlreadyExistsException.java
+/home/nht-wave3-suyog/Desktop/spring/FSD_Teamsix_MusicApp/FavouriteModule/src/main/java/com/teamsixx/musixapp/model/Favourite.java
+/home/nht-wave3-suyog/Desktop/spring/FSD_Teamsix_MusicApp/FavouriteModule/src/main/java/com/teamsixx/musixapp/FavouriteModuleApplication.java
+/home/nht-wave3-suyog/Desktop/spring/FSD_Teamsix_MusicApp/FavouriteModule/src/main/java/com/teamsixx/musixapp/repository/FavRepository.java
+/home/nht-wave3-suyog/Desktop/spring/FSD_Teamsix_MusicApp/FavouriteModule/src/main/java/com/teamsixx/musixapp/exception/SongNotExistsException.java
+/home/nht-wave3-suyog/Desktop/spring/FSD_Teamsix_MusicApp/FavouriteModule/src/main/java/com/teamsixx/musixapp/service/FavService.java
+/home/nht-wave3-suyog/Desktop/spring/FSD_Teamsix_MusicApp/FavouriteModule/src/main/java/com/teamsixx/musixapp/controller/FavouriteController.java
